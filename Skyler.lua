@@ -1,16 +1,3 @@
-([[
-                   This script has been licensed using Luarmor
-                Luarmor v3.5, Lua whitelisting system by @fedaral#0
-                           https://luarmor.net/
-
-      __  __       _       ____            _       _   
-     |  \/  | __ _(_)_ __ / ___|  ___ _ __(_)_ __ | |_ 
-     | |\/| |/ _` | | '_ \\___ \ / __| '__| | '_ \| __|
-     | |  | | (_| | | | | |___) | (__| |  | | |_) | |_ 
-     |_|  |_|\__,_|_|_| |_|____/ \___|_|  |_| .__/ \__|
-                                            |_|        
-
-                                                     
                  Script ID: 8555f27454c952fb960ba00a4cd3f8f6
 ]])
 
