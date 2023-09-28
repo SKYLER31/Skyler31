@@ -10,7 +10,7 @@ local heartbeatConnection
 local Window = Rayfield:CreateWindow({
    Name = "Blade Ball",
    LoadingTitle = "Inferno Scripts",
-   LoadingSubtitle = "by InfernoKarl",
+   LoadingSubtitle = "by InfernoSkyler",
    ConfigurationSaving = {
       Enabled = false,
       FolderName = "Inferno Scripts",
@@ -74,7 +74,7 @@ local function startAutoParry()
             return math.huge
         end
  
-        local distanceToBeCovered = distanceToPlayer - 40
+        local distanceToBeCovered = distanceToPlayer - 44
         return distanceToBeCovered / velocityTowardsPlayer
     end
  
